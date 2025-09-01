@@ -19,4 +19,3 @@ Add before/after screenshots or a short clip.
 - [ ] `npm run format:check` passes
 - [ ] Docs updated (`README.md` or comments)
 - [ ] Linked issue(s): Closes #
-
